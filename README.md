@@ -1,2 +1,2 @@
-# SYN-flood-prevention-simulation
+# SYN-flood-simulation
 final year project
