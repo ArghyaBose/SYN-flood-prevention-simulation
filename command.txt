@@ -1,0 +1,9 @@
+for running the server2.c
+
+gcc -o server server2.c
+sudo ./server
+
+for running the client
+
+gcc -o client client.c -lpthread
+sudo ./client 127.0.0.3
